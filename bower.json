@@ -1,0 +1,11 @@
+{
+  "name": "bg-lodash",
+  "description": "",
+  "main": "lodash.js",
+  "authors": [
+    "Richard Willars <richard@richardwillars.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/richardwillars/bg-lodash",
+  "private": true
+}

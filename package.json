@@ -1,0 +1,15 @@
+{
+  "name": "bg-lodash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lodash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardwillars/bg-lodash.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
